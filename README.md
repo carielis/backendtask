@@ -32,6 +32,14 @@
 $ npm install
 ```
 
+## Commands
+```bash
+# /users - get all users
+# /users/:id - get users by id
+# /users - method[post] create users
+# /users/:id - method[delete] remove users
+```
+
 ## Running the app
 
 ```bash
